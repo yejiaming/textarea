@@ -195,6 +195,9 @@
 ## issue
 * 使用该组件注意一个问题就是不要在可视化区域的节点上使用-**webkit-user-select: none**样式，否则会出现当鼠标焦点小时光标和小水滴无法消失的情况
 
+## github地址
+[github项目地址](https://github.com/yejiaming/textarea/tree/master)
+
 ## 参考链接
 
 [div模拟textarea文本域轻松实现高度自适应](http://www.zhangxinxu.com/wordpress/2010/12/div-textarea-height-auto/)
